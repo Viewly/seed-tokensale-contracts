@@ -21,6 +21,8 @@ the main ICO).
 
 ## Token price and BONUS
 
+<img src="https://i.imgur.com/fejXmW0.png" width="430" height="340" align="right"/>
+
 Token sale contract features a token bonus that rewards early contributors. The
 bonus starts at 15% at the beginning of sale. As more funds are sent in, bonus
 gradually decreases and reduces to 0 when maximum funding cap is reached.
@@ -30,6 +32,7 @@ sold at the sale:
 * VIEW price at the start (max bonus): 0.000374 ETH
 * VIEW price at the end (zero bonus): 0.000430 ETH
 * Average VIEW price (when cap reached): 0.000400 ETH
+
 
 ## Maximum funding and tokens cap
 
